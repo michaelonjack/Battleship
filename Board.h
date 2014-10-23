@@ -40,6 +40,6 @@ private:
     
     // Board used soley for output
     // KEY: 0 = not yet guessed, 1 = hit, 2 = miss
-	int outputBoard[BOARD_LENGTH][BOARD_WIDTH];
+    int outputBoard[BOARD_LENGTH][BOARD_WIDTH];
     
 };
